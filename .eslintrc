@@ -16,7 +16,7 @@
       "jsx": true
     }
   },
-  "plugins": ["html", "tailwindcss"],
+  "plugins": ["html", "prettier", "tailwindcss"],
   "rules": {
     "prettier/prettier": "error"
   }   
